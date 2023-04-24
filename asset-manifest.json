@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-events-state-filter/static/css/main.32fc83dd.css",
+    "main.js": "/react-events-state-filter/static/js/main.7f88d4b0.js",
+    "static/js/787.c750a192.chunk.js": "/react-events-state-filter/static/js/787.c750a192.chunk.js",
+    "index.html": "/react-events-state-filter/index.html",
+    "main.32fc83dd.css.map": "/react-events-state-filter/static/css/main.32fc83dd.css.map",
+    "main.7f88d4b0.js.map": "/react-events-state-filter/static/js/main.7f88d4b0.js.map",
+    "787.c750a192.chunk.js.map": "/react-events-state-filter/static/js/787.c750a192.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32fc83dd.css",
+    "static/js/main.7f88d4b0.js"
+  ]
+}
